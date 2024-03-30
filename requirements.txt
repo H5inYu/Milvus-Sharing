@@ -1,0 +1,11 @@
+towhee
+gradio
+opencv-python
+opencv-python-headless
+jupyter
+pymilvus
+langchain
+langchain_openai
+langchain_core
+pandas
+torch
